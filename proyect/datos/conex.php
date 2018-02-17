@@ -19,7 +19,7 @@
 
 
 
-		if($nomi == "" || $ubi == "" || $tli = "" || $emi == "" || $fi =="" || $hi == "" || $t_incidentesi == "" || $d_i =="" || $ejecui =="" || $c_ai == "" || $ctidadi = "" || $f_ai = ""){
+		if($nomi == "" && $ubi == "" && $tli = "" && $emi == "" && $fi =="" && $hi == "" && $t_incidentesi == "" && $d_i =="" && $ejecui =="" && $c_ai == "" && $ctidadi = "" && $f_ai = ""){
 				  header("Location:../index.php");
 		}
 
